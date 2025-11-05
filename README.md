@@ -35,28 +35,18 @@ It focuses on clean UI, smooth scrolling, and a poster-first experience that mak
 
 ## 🗺️ Roadmap / Future Developments
 🔮 Short-Term
-
-🎨 Social share images (Open Graph previews for user profiles)
-
-🧾 “Compare Your Taste” page (side-by-side game taste comparison)
-
-🕵️ Game Finder (Tinder-style swipe interface for discovering new games)
-
-📺 Embedded trailers and media galleries
-
-💬 User reviews and comment threads
+- 🎨 Social share images (Open Graph previews for user profiles)
+- 🧾 “Compare Your Taste” page (side-by-side game taste comparison)
+- 🕵️ Game Finder (Tinder-style swipe interface for discovering new games)
+- 📺 Embedded trailers and media galleries
+- 💬 User reviews and comment threads
 
 🚀 Long-Term
-
-🧠 AI-assisted recommendations
-
-🌐 Multiplayer/co-op filters by genre and platform
-
-🔔 Push notifications for wishlist releases
-
-👥 Social following and friend leaderboards
-
-📊 Personal analytics dashboard for playtime, ratings, and completion stats
+- 🧠 AI-assisted recommendations
+- 🌐 Multiplayer/co-op filters by genre and platform
+- 🔔 Push notifications for wishlist releases
+- 👥 Social following and friend leaderboards
+- 📊 Personal analytics dashboard for playtime, ratings, and completion stats
 
 ## 🧩 Development Journey
 
