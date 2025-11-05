@@ -3,7 +3,7 @@
 GameBoxr is a modern web app for discovering, rating, and tracking games across multiple platforms — designed with gamers and developers in mind.  
 It focuses on clean UI, smooth scrolling, and a poster-first experience that makes managing your game library actually enjoyable.
 
-![GameBoxr Banner](/public/images/gameboxr-1.png)
+![GameBoxr Banner](/images/gameboxr-1.png)
 
 ---
 
@@ -29,7 +29,7 @@ It focuses on clean UI, smooth scrolling, and a poster-first experience that mak
 | Database | PostgreSQL (via Prisma ORM) |
 | Other Tools | ESLint, Prettier, Netlify Deployment |
 
-![GameBoxr Gallery](public/images/gameboxr-3.png)
+![GameBoxr Gallery](/images/gameboxr-3.png)
 
 ---
 
